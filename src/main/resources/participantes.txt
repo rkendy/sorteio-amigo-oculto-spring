@@ -1,0 +1,6 @@
+# ==================================
+# Formato do conteudo: Nome:email
+# ==================================
+Nome 01:email01.com
+Nome 02:email02.com
+Nome 03:email03.com
